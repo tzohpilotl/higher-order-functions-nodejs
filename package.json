@@ -1,0 +1,22 @@
+{
+  "name": "higher-order-functions",
+  "version": "0.0.1",
+  "description": "A module to showcase higher-order functions using nodejs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tzohpilotl/higher-order-functions-nodejs.git"
+  },
+  "keywords": [
+    "higher-order-functions"
+  ],
+  "author": "tzohpilotl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tzohpilotl/higher-order-functions-nodejs/issues"
+  },
+  "homepage": "https://github.com/tzohpilotl/higher-order-functions-nodejs#readme"
+}
