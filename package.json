@@ -18,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/tzohpilotl/higher-order-functions-nodejs/issues"
   },
-  "homepage": "https://github.com/tzohpilotl/higher-order-functions-nodejs#readme"
+  "homepage": "https://github.com/tzohpilotl/higher-order-functions-nodejs#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-config-prettier": "^6.10.1",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-prettier": "^3.1.3",
+    "prettier": "^2.0.4"
+  },
+  "dependencies": {}
 }
